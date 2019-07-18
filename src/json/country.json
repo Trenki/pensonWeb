@@ -1,0 +1,861 @@
+[{
+    "code": "+86",
+    "country": "中国",
+    "pin": "zhong"
+},{
+    "code": "+20",
+    "country": "埃及",
+    "pin": "ai"
+}, {
+    "code": "+251",
+    "country": "埃塞俄比亚",
+    "pin": "ai"
+}, {
+    "code": "+353",
+    "country": "爱尔兰",
+    "pin": "ai"
+}, {
+    "code": "+372",
+    "country": "爱沙尼亚",
+    "pin": "ai"
+}, {
+    "code": "+244",
+    "country": "安哥拉",
+    "pin": "an"
+}, {
+    "code": "+1264",
+    "country": "安圭拉",
+    "pin": "an"
+}, {
+    "code": "+1268",
+    "country": "安提瓜",
+    "pin": "an"
+}, {
+    "code": "+376",
+    "country": "安道尔",
+    "pin": "an"
+}, {
+    "code": "+61",
+    "country": "澳大利亚",
+    "pin": "ao"
+}, {
+    "code": "+43",
+    "country": "奥地利",
+    "pin": "ao"
+}, {
+    "code": "+853",
+    "country": "澳门",
+    "pin": "ao"
+}, {
+    "code": "+970",
+    "country": "巴勒斯",
+    "pin": "ba"
+}, {
+    "code": "+1242",
+    "country": "巴哈马",
+    "pin": "ba"
+}, {
+    "code": "+92",
+    "country": "巴基斯坦",
+    "pin": "ba"
+}, {
+    "code": "+1246",
+    "country": "巴巴多斯",
+    "pin": "ba"
+}, {
+    "code": "+675",
+    "country": "巴布亚新几",
+    "pin": "ba"
+}, {
+    "code": "+595",
+    "country": "巴拉圭",
+    "pin": "ba"
+}, {
+    "code": "+507",
+    "country": "巴拿马",
+    "pin": "ba"
+}, {
+    "code": "+973",
+    "country": "巴林",
+    "pin": "ba"
+}, {
+    "code": "+55",
+    "country": "巴西",
+    "pin": "ba"
+}, {
+    "code": "+375",
+    "country": "白俄罗斯",
+    "pin": "bai"
+}, {
+    "code": "+1441",
+    "country": "百慕大群岛",
+    "pin": "bai"
+}, {
+    "code": "+359",
+    "country": "保加利亚",
+    "pin": "bao"
+}, {
+    "code": "+229",
+    "country": "贝宁",
+    "pin": "bei"
+}, {
+    "code": "+32",
+    "country": "比利时",
+    "pin": "bi"
+}, {
+    "code": "+354",
+    "country": "冰岛",
+    "pin": "bing"
+}, {
+    "code": "+501",
+    "country": "伯利兹",
+    "pin": "bo"
+}, {
+    "code": "+267",
+    "country": "博茨瓦纳",
+    "pin": "bo"
+}, {
+    "code": "+48",
+    "country": "波兰",
+    "pin": "bo"
+}, {
+    "code": "+1787",
+    "country": "波多黎各",
+    "pin": "bo"
+}, {
+    "code": "+387",
+    "country": "波斯",
+    "pin": "bo"
+}, {
+    "code": "+591",
+    "country": "玻利维亚",
+    "pin": "bo"
+}, {
+    "code": "+975",
+    "country": "不丹",
+    "pin": "bu"
+}, {
+    "code": "+226",
+    "country": "布基纳法索",
+    "pin": "bu"
+}, {
+    "code": "+257",
+    "country": "布隆迪",
+    "pin": "bu"
+}, {
+    "code": "+240",
+    "country": "赤道几内亚",
+    "pin": "chi"
+}, {
+    "code": "+45",
+    "country": "丹麦",
+    "pin": "dan"
+}, {
+    "code": "+49",
+    "country": "德国",
+    "pin": "de"
+}, {
+    "code": "+670",
+    "country": "东帝汶",
+    "pin": "dong"
+}, {
+    "code": "+228",
+    "country": "多哥",
+    "pin": "duo"
+}, {
+    "code": "+1809",
+    "country": "多明尼加共和国",
+    "pin": "duo"
+}, {
+    "code": "+1767",
+    "country": "多米尼加",
+    "pin": "duo"
+}, {
+    "code": "+7",
+    "country": "俄罗斯",
+    "pin": "e"
+}, {
+    "code": "+593",
+    "country": "厄瓜多尔",
+    "pin": "e"
+}, {
+    "code": "+994",
+    "country": "阿塞拜疆",
+    "pin": "a"
+}, {
+    "code": "+93",
+    "country": "阿富汗",
+    "pin": "a"
+}, {
+    "code": "+213",
+    "country": "阿尔及利亚",
+    "pin": "a"
+}, {
+    "code": "+355",
+    "country": "阿尔巴尼亚",
+    "pin": "a"
+}, {
+    "code": "+971",
+    "country": "阿拉伯",
+    "pin": "a"
+}, {
+    "code": "+968",
+    "country": "阿曼",
+    "pin": "a"
+}, {
+    "code": "+54",
+    "country": "阿根廷",
+    "pin": "a"
+}, {
+    "code": "+247",
+    "country": "阿森松岛",
+    "pin": "a"
+}, {
+    "code": "+297",
+    "country": "阿鲁巴",
+    "pin": "a"
+}, {
+    "code": "+33",
+    "country": "法国",
+    "pin": "fa"
+}, {
+    "code": "+594",
+    "country": "法属圭亚那",
+    "pin": "fa"
+}, {
+    "code": "+689",
+    "country": "法属波利尼",
+    "pin": "fa"
+}, {
+    "code": "+298",
+    "country": "法罗群岛",
+    "pin": "fa"
+}, {
+    "code": "+63",
+    "country": "菲律宾",
+    "pin": "fei"
+}, {
+    "code": "+679",
+    "country": "斐济",
+    "pin": "fei"
+}, {
+    "code": "+358",
+    "country": "芬兰",
+    "pin": "fen"
+}, {
+    "code": "+220",
+    "country": "冈比亚",
+    "pin": "gang"
+}, {
+    "code": "+242",
+    "country": "刚果共和国",
+    "pin": "gang"
+}, {
+    "code": "+243",
+    "country": "刚果民主共和国",
+    "pin": "gang"
+}, {
+    "code": "+57",
+    "country": "哥伦比亚",
+    "pin": "ge"
+}, {
+    "code": "+506",
+    "country": "哥斯达黎加",
+    "pin": "ge"
+}, {
+    "code": "+1473",
+    "country": "格林纳达",
+    "pin": "ge"
+}, {
+    "code": "+299",
+    "country": "格陵兰岛",
+    "pin": "ge"
+}, {
+    "code": "+995",
+    "country": "格鲁吉亚",
+    "pin": "ge"
+}, {
+    "code": "+53",
+    "country": "古巴",
+    "pin": "gu"
+}, {
+    "code": "+502",
+    "country": "瓜地马拉",
+    "pin": "gua"
+}, {
+    "code": "+590",
+    "country": "瓜德罗普岛",
+    "pin": "gua"
+}, {
+    "code": "+1671",
+    "country": "关岛",
+    "pin": "guan"
+}, {
+    "code": "+592",
+    "country": "圭亚那",
+    "pin": "gui"
+}, {
+    "code": "+7",
+    "country": "哈萨克斯坦",
+    "pin": "ha"
+}, {
+    "code": "+509",
+    "country": "海地",
+    "pin": "hai"
+}, {
+    "code": "+82",
+    "country": "韩国",
+    "pin": "han"
+}, {
+    "code": "+31",
+    "country": "荷兰",
+    "pin": "he"
+}, {
+    "code": "+382",
+    "country": "黑山",
+    "pin": "hei"
+}, {
+    "code": "+504",
+    "country": "洪都拉斯",
+    "pin": "hong"
+}, {
+    "code": "+224",
+    "country": "几内亚",
+    "pin": "ji"
+}, {
+    "code": "+245",
+    "country": "几内亚比绍共和国",
+    "pin": "ji"
+}, {
+    "code": "+996",
+    "country": "吉尔吉斯斯坦",
+    "pin": "ji"
+}, {
+    "code": "+253",
+    "country": "吉布提",
+    "pin": "ji"
+}, {
+    "code": "+686",
+    "country": "基里巴斯",
+    "pin": "ji"
+}, {
+    "code": "+1",
+    "country": "加拿大",
+    "pin": "jia"
+}, {
+    "code": "+233",
+    "country": "加纳",
+    "pin": "jia"
+}, {
+    "code": "+241",
+    "country": "加蓬",
+    "pin": "jia"
+}, {
+    "code": "+855",
+    "country": "柬埔寨",
+    "pin": "jian"
+}, {
+    "code": "+420",
+    "country": "捷克",
+    "pin": "jie"
+}, {
+    "code": "+263",
+    "country": "津巴布韦",
+    "pin": "jin"
+}, {
+    "code": "+974",
+    "country": "卡塔尔",
+    "pin": "ka"
+}, {
+    "code": "+237",
+    "country": "喀麦隆",
+    "pin": "ka"
+}, {
+    "code": "+238",
+    "country": "开普",
+    "pin": "kai"
+}, {
+    "code": "+1345",
+    "country": "开曼群岛",
+    "pin": "kai"
+}, {
+    "code": "+385",
+    "country": "克罗地亚",
+    "pin": "ke"
+}, {
+    "code": "+965",
+    "country": "科威特",
+    "pin": "ke"
+}, {
+    "code": "+269",
+    "country": "科摩罗",
+    "pin": "ke"
+}, {
+    "code": "+254",
+    "country": "肯尼亚",
+    "pin": "ken"
+}, {
+    "code": "+682",
+    "country": "库克群岛",
+    "pin": "ku"
+}, {
+    "code": "+599",
+    "country": "库拉索",
+    "pin": "ku"
+}, {
+    "code": "+371",
+    "country": "拉脱维亚",
+    "pin": "la"
+}, {
+    "code": "+266",
+    "country": "莱索托",
+    "pin": "lai"
+}, {
+    "code": "+856",
+    "country": "老挝",
+    "pin": "lao"
+}, {
+    "code": "+218",
+    "country": "利比亚",
+    "pin": "li"
+}, {
+    "code": "+231",
+    "country": "利比里亚",
+    "pin": "li"
+}, {
+    "code": "+370",
+    "country": "立陶宛",
+    "pin": "li"
+}, {
+    "code": "+961",
+    "country": "黎巴嫩",
+    "pin": "li"
+}, {
+    "code": "+423",
+    "country": "列支敦士登",
+    "pin": "lie"
+}, {
+    "code": "+262",
+    "country": "留尼汪",
+    "pin": "liu"
+}, {
+    "code": "+250",
+    "country": "卢旺达",
+    "pin": "lu"
+}, {
+    "code": "+352",
+    "country": "卢森堡",
+    "pin": "lu"
+}, {
+    "code": "+40",
+    "country": "罗马尼亚",
+    "pin": "luo"
+}, {
+    "code": "+389",
+    "country": "马其顿",
+    "pin": "ma"
+}, {
+    "code": "+960",
+    "country": "马尔代夫",
+    "pin": "ma"
+}, {
+    "code": "+265",
+    "country": "马拉维",
+    "pin": "ma"
+}, {
+    "code": "+596",
+    "country": "马提尼克",
+    "pin": "ma"
+}, {
+    "code": "+60",
+    "country": "马来西亚",
+    "pin": "ma"
+}, {
+    "code": "+269",
+    "country": "马约特",
+    "pin": "ma"
+}, {
+    "code": "+356",
+    "country": "马耳他",
+    "pin": "ma"
+}, {
+    "code": "+261",
+    "country": "马达加斯加",
+    "pin": "ma"
+}, {
+    "code": "+223",
+    "country": "马里",
+    "pin": "ma"
+}, {
+    "code": "+222",
+    "country": "毛里塔尼亚",
+    "pin": "mao"
+}, {
+    "code": "+230",
+    "country": "毛里求斯",
+    "pin": "mao"
+}, {
+    "code": "+1",
+    "country": "美国",
+    "pin": "mei"
+}, {
+    "code": "+1684",
+    "country": "美属萨摩亚",
+    "pin": "mei"
+}, {
+    "code": "+880",
+    "country": "孟加拉国",
+    "pin": "meng"
+}, {
+    "code": "+976",
+    "country": "蒙古",
+    "pin": "meng"
+}, {
+    "code": "+1664",
+    "country": "蒙特塞拉特岛",
+    "pin": "meng"
+}, {
+    "code": "+51",
+    "country": "秘鲁",
+    "pin": "mi"
+}, {
+    "code": "+95",
+    "country": "缅甸",
+    "pin": "mian"
+}, {
+    "code": "+52",
+    "country": "墨西哥",
+    "pin": "mo"
+}, {
+    "code": "+373",
+    "country": "摩尔多瓦",
+    "pin": "mo"
+}, {
+    "code": "+212",
+    "country": "摩洛哥",
+    "pin": "mo"
+}, {
+    "code": "+377",
+    "country": "摩纳哥",
+    "pin": "mo"
+}, {
+    "code": "+258",
+    "country": "莫桑比克",
+    "pin": "mo"
+}, {
+    "code": "+264",
+    "country": "纳米比亚",
+    "pin": "na"
+}, {
+    "code": "+211",
+    "country": "南苏丹",
+    "pin": "nan"
+}, {
+    "code": "+27",
+    "country": "南非",
+    "pin": "nan"
+}, {
+    "code": "+505",
+    "country": "尼加拉瓜",
+    "pin": "ni"
+}, {
+    "code": "+234",
+    "country": "尼日利亚",
+    "pin": "ni"
+}, {
+    "code": "+227",
+    "country": "尼日尔",
+    "pin": "ni"
+}, {
+    "code": "+977",
+    "country": "尼泊尔",
+    "pin": "ni"
+}, {
+    "code": "+47",
+    "country": "挪威",
+    "pin": "nuo"
+}, {
+    "code": "+680",
+    "country": "帕劳",
+    "pin": "pa"
+}, {
+    "code": "+351",
+    "country": "葡萄牙",
+    "pin": "pu"
+}, {
+    "code": "+81",
+    "country": "日本",
+    "pin": "ri"
+}, {
+    "code": "+46",
+    "country": "瑞典",
+    "pin": "rui"
+}, {
+    "code": "+41",
+    "country": "瑞士",
+    "pin": "rui"
+}, {
+    "code": "+503",
+    "country": "萨尔瓦多",
+    "pin": "sa"
+}, {
+    "code": "+685",
+    "country": "萨摩亚",
+    "pin": "sa"
+}, {
+    "code": "+221",
+    "country": "塞内加尔",
+    "pin": "sai"
+}, {
+    "code": "+381",
+    "country": "塞尔维亚",
+    "pin": "sai"
+}, {
+    "code": "+232",
+    "country": "塞拉利昂",
+    "pin": "sai"
+}, {
+    "code": "+357",
+    "country": "塞浦路斯",
+    "pin": "sai"
+}, {
+    "code": "+248",
+    "country": "塞舌尔",
+    "pin": "sai"
+}, {
+    "code": "+966",
+    "country": "沙特阿拉伯",
+    "pin": "sha"
+}, {
+    "code": "+1869",
+    "country": "圣基",
+    "pin": "sheng"
+}, {
+    "code": "+239",
+    "country": "圣多美",
+    "pin": "sheng"
+}, {
+    "code": "+508",
+    "country": "圣彼埃尔和密克隆岛",
+    "pin": "sheng"
+}, {
+    "code": "+1784",
+    "country": "圣文森特和格林纳丁斯",
+    "pin": "sheng"
+}, {
+    "code": "+1758",
+    "country": "圣露西亚",
+    "pin": "sheng"
+}, {
+    "code": "+1721",
+    "country": "圣马丁岛（荷兰部分）",
+    "pin": "sheng"
+}, {
+    "code": "+378",
+    "country": "圣马力诺",
+    "pin": "sheng"
+}, {
+    "code": "+268",
+    "country": "斯威士兰",
+    "pin": "si"
+}, {
+    "code": "+421",
+    "country": "斯洛伐克",
+    "pin": "si"
+}, {
+    "code": "+386",
+    "country": "斯洛文尼亚",
+    "pin": "si"
+}, {
+    "code": "+94",
+    "country": "斯里兰卡",
+    "pin": "si"
+}, {
+    "code": "+249",
+    "country": "苏丹",
+    "pin": "su"
+}, {
+    "code": "+597",
+    "country": "苏里南",
+    "pin": "su"
+}, {
+    "code": "+677",
+    "country": "所罗门群岛",
+    "pin": "suo"
+}, {
+    "code": "+252",
+    "country": "索马里",
+    "pin": "suo"
+}, {
+    "code": "+992",
+    "country": "塔吉克斯坦",
+    "pin": "ta"
+}, {
+    "code": "+886",
+    "country": "台湾",
+    "pin": "tai"
+}, {
+    "code": "+66",
+    "country": "泰国",
+    "pin": "tai"
+}, {
+    "code": "+255",
+    "country": "坦桑尼亚",
+    "pin": "tan"
+}, {
+    "code": "+676",
+    "country": "汤加",
+    "pin": "tang"
+}, {
+    "code": "+1649",
+    "country": "特克斯和凯科斯群岛",
+    "pin": "te"
+}, {
+    "code": "+1868",
+    "country": "特立尼",
+    "pin": "te"
+}, {
+    "code": "+993",
+    "country": "土库曼斯坦",
+    "pin": "tu"
+}, {
+    "code": "+90",
+    "country": "土耳其",
+    "pin": "tu"
+}, {
+    "code": "+216",
+    "country": "突尼斯",
+    "pin": "tu"
+}, {
+    "code": "+678",
+    "country": "瓦努阿图",
+    "pin": "wa"
+}, {
+    "code": "+58",
+    "country": "委内瑞拉",
+    "pin": "wei"
+}, {
+    "code": "+673",
+    "country": "文莱",
+    "pin": "wen"
+}, {
+    "code": "+380",
+    "country": "乌克兰",
+    "pin": "wu"
+}, {
+    "code": "+998",
+    "country": "乌兹别克斯坦",
+    "pin": "wu"
+}, {
+    "code": "+256",
+    "country": "乌干达",
+    "pin": "wu"
+}, {
+    "code": "+598",
+    "country": "乌拉圭",
+    "pin": "wu"
+}, {
+    "code": "+30",
+    "country": "希腊",
+    "pin": "xi"
+}, {
+    "code": "+34",
+    "country": "西班牙",
+    "pin": "xi"
+}, {
+    "code": "+852",
+    "country": "香港",
+    "pin": "xiang"
+}, {
+    "code": "+225",
+    "country": "象牙海岸",
+    "pin": "xiang"
+}, {
+    "code": "+64",
+    "country": "新西兰",
+    "pin": "xin"
+}, {
+    "code": "+65",
+    "country": "新加坡",
+    "pin": "xin"
+}, {
+    "code": "+687",
+    "country": "新喀里多尼亚",
+    "pin": "xin"
+}, {
+    "code": "+36",
+    "country": "匈牙利",
+    "pin": "xiong"
+}, {
+    "code": "+963",
+    "country": "叙利亚",
+    "pin": "xu"
+}, {
+    "code": "+374",
+    "country": "亚美尼亚",
+    "pin": "ya"
+}, {
+    "code": "+1876",
+    "country": "牙买加",
+    "pin": "ya"
+}, {
+    "code": "+967",
+    "country": "也门",
+    "pin": "ye"
+}, {
+    "code": "+972",
+    "country": "以色列",
+    "pin": "yi"
+}, {
+    "code": "+964",
+    "country": "伊拉克",
+    "pin": "yi"
+}, {
+    "code": "+98",
+    "country": "伊朗",
+    "pin": "yi"
+}, {
+    "code": "+39",
+    "country": "意大利",
+    "pin": "yi"
+}, {
+    "code": "+91",
+    "country": "印度",
+    "pin": "yin"
+}, {
+    "code": "+62",
+    "country": "印度尼西亚",
+    "pin": "yin"
+}, {
+    "code": "+44",
+    "country": "英国",
+    "pin": "ying"
+}, {
+    "code": "+84",
+    "country": "越南",
+    "pin": "yue"
+}, {
+    "code": "+962",
+    "country": "约旦",
+    "pin": "yue"
+}, {
+    "code": "+260",
+    "country": "赞比亚",
+    "pin": "zan"
+}, {
+    "code": "+235",
+    "country": "乍得",
+    "pin": "zha"
+}, {
+    "code": "+56",
+    "country": "智利",
+    "pin": "zhi"
+}, {
+    "code": "+350",
+    "country": "直布罗陀",
+    "pin": "zhi"
+},  {
+    "code": "+236",
+    "country": "中非",
+    "pin": "zhong"
+}]
