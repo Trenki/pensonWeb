@@ -2,7 +2,7 @@
   <div id="app">
     <div id="nav" v-show="$route.meta.navShow">
       <router-link to="/">Home</router-link> |
-      <router-link to="/DrumKit">DrumKit</router-link> | 
+      <router-link to="/DrumKit">DrumKitDrumKit</router-link> | 
       <router-link to="/Clock">Clock</router-link> | 
       <router-link to="/ChangeImg">ChangeImg</router-link> | 
     </div>
